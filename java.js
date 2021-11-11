@@ -1,2 +1,2 @@
 var name= "aderibgbe";
-documet.write(name)
+documet.write('name')
