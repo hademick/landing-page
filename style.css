@@ -1,0 +1,14 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+
+.imagesize {
+ width: 100px;
+ margin: auto 30px 30px 30px;
+ padding: auto 30px 30px 30px;
+ border-radius: 50%;
+}
